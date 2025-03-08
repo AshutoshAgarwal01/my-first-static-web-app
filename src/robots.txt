@@ -23,6 +23,6 @@ Disallow: /*/contact/partner*
 Disallow: /contactus/mwaas*
 Disallow: /*/contactus/mwaas*
 Disallow: /app/
-Disallow: /TempForTest/
+Disallow: /TempForTest-1/
 
 Sitemap: https://support.microsoft.com/sitemap/collection.xml
